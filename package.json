@@ -28,7 +28,7 @@
     "reflect-metadata": "^0.1.13",
     "ts-jest": "^29.1.0",
     "ts-node": "^10.9.1",
-    "tsup": "^6.7.0",
+    "tsup": "^7.0.0",
     "typescript": "^5.0.4",
     "winston": "^3.8.2",
     "zod": "^3.21.4"
